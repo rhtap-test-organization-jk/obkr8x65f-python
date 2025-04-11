@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: obkr8x65f-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/obkr8x65f-python-gitops
